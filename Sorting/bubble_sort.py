@@ -12,10 +12,18 @@ def bubbble_Sort(arr,n):
 
 
 
-# arr=[12,3,4,1,24,5,2,33,5,21]
-arr=[1,2,3]
+arr=[12,3,4,1,24,5,2,33,5,21]
+# arr=[1,2,3]
 
 bubbble_Sort(arr[:],len(arr))
 
 # Time Complexity
+
+
 # Best Case: O(n) 
+# AverageCase : O(N^2) 
+# Worst Case: O(N^2) 
+
+
+# Space Complexity 
+# O(1) as it only uses a constant amount of space for the variables.

@@ -11,3 +11,13 @@ def insertion_sort(arr,n):
 
 arr=[12,3,4,1,24,5,2,33,5,21]
 insertion_sort(arr[:],len(arr))
+
+
+# Time Complexity 
+
+# best-O(N)
+# average-O(N^2)
+# worst-O(N^2)
+
+# Space Complexity
+# O(1) auxiliary space. 
