@@ -7,13 +7,11 @@ def bubbble_Sort(arr,n):
                 swapped=1
         if swapped==0:
             break
-        print("runned")
     print(arr)
 
 
 
 arr=[12,3,4,1,24,5,2,33,5,21]
-# arr=[1,2,3]
 
 bubbble_Sort(arr[:],len(arr))
 
